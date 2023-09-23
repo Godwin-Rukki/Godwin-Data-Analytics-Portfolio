@@ -43,7 +43,7 @@ Each project is well-documented and includes code, data, and a detailed explanat
 
 ## Getting Started
 
-To explore these projects, simply click on the project links above. You can also clone this repository to your local machine and dive deeper into the code and data. If you have any questions or would like to collaborate on a project, don't hesitate to [contact me](mailto:your@email.com).
+To explore these projects, simply click on the project links above. You can also clone this repository to your local machine and dive deeper into the code and data. If you have any questions or would like to collaborate on a project, don't hesitate to [contact me](https://www.linkedin.com/in/oghenerukevwegodwinidiovo/).
 
 ## Contributing
 
