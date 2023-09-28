@@ -237,23 +237,35 @@ def user_stats(df):
     plt.xticks(yearly_counts.index)
     plt.grid()
     plt.show()
-
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
     
-    # displaying raw data
     
-    def display_data(df):
-        
-        global start_loc
-    while True:
+    # displaying raw data
+def display_data(df):
+    chunk_size = 5
+    start_loc = 0
+    
+    
+    while start_loc < len(df):
         view_data = input('\nDo you want to see 5 rows of data? Enter yes or no.\n')
         if view_data.lower() != 'yes':
             break
-        print(df.iloc[0:5, : ])
+            
+        end_loc = start_loc + chunk_size
+        if end_loc > len(df):
+            end_loc = len(df)
+            
+        if start_loc == end_loc:
+            print("No more data to display.")
+            break
+            
+        print(df.iloc[start_loc:end_loc,: ])
+        start_loc = end_loc
 
 def main():
     while True:
+        user_name = get_user_name()
         city, month, day = get_filters(user_name)
         df = load_data(city, month, day)
 
@@ -261,13 +273,12 @@ def main():
         station_stats(df)
         trip_duration_stats(df)
         user_stats(df)
+        display_data(df)
 
         restart = input('\n{}, Would you like to view another city? Enter "yes" or "no": '.format(user_name))
         if restart.lower() != 'yes':
             break
 
 if __name__ == "__main__":
-    user_name = get_user_name()
-    get_filters(user_name)
     main()
-    display_data(df)
+    
