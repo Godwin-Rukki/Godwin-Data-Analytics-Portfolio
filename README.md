@@ -20,6 +20,8 @@ In this repository, I share my passion for data analytics and visualization. Whe
   
 ### Power BI Projects
 - [HCAHPS PATIENT SURVEY - mavin analytics challenge](https://github.com/Godwin-Rukki/Godwin-Data-Analytics-Portfolio/commit/5bcc2aad974ad8fc69d0aa4531609ef0de591d46)
+- [HCAHPS PATIENT SURVEY REPORT DASHBOARD](https://github.com/Godwin-Rukki/Godwin-Data-Analytics-Portfolio/blob/Projects/Capture2.PNG)
+- [DATA PROFESSIONALS SURVEY REPORT DASHBOARD](https://github.com/Godwin-Rukki/Godwin-Data-Analytics-Portfolio/blob/Projects/Data%20Professionals%20Power%20BI.PNG)
 
 ### Tableau Projects
 - [Maven analytics North traders tableau worksheet](https://github.com/Godwin-Rukki/Godwin-Data-Analytics-Portfolio/commit/099afc9bccc2541b85581bf50cfbcbd699b039eb)
