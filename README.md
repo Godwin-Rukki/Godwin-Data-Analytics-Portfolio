@@ -29,6 +29,7 @@ In this repository, I share my passion for data analytics and visualization. Whe
 - [BMI Calculator](https://github.com/Godwin-Rukki/Godwin-Data-Analytics-Portfolio/blob/Projects/BMI%20Calculator.py)
 - [BMI for Under 5 Children python Project](https://github.com/Godwin-Rukki/Godwin-Data-Analytics-Portfolio/blob/Projects/Child%20BMI%20Calculator.py)
 - [Daily Caloric Goal Calculator](https://github.com/Godwin-Rukki/Godwin-Data-Analytics-Portfolio/blob/Projects/Calorie%20Calculator.py)
+- [Bike Share Project](https://github.com/Godwin-Rukki/Godwin-Data-Analytics-Portfolio/blob/Projects/bikeshareproject.py)
 
 Each project is well-documented and includes code, data, and a detailed explanation of the problem statement, methodology, and results.
 
@@ -40,6 +41,10 @@ Each project is well-documented and includes code, data, and a detailed explanat
 - Power BI
 - Tableau
 - Python
+
+## License
+This project is licensed under the terms of the **GNU General Public License (GPL)**.
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Getting Started
 
