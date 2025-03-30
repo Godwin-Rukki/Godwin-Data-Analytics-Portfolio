@@ -32,6 +32,9 @@ In this repository, I share my passion for data analytics and visualization. Whe
 - [BMI for Under 5 Children python Project](https://github.com/Godwin-Rukki/Godwin-Data-Analytics-Portfolio/blob/Projects/Child%20BMI%20Calculator.py)
 - [Daily Caloric Goal Calculator](https://github.com/Godwin-Rukki/Godwin-Data-Analytics-Portfolio/blob/Projects/Calorie%20Calculator.py)
 - [Bike Share Project](https://github.com/Godwin-Rukki/Godwin-Data-Analytics-Portfolio/blob/Projects/bikeshareproject.py)
+- [extern beats by dre capstone project](https://github.com/Godwin-Rukki/Godwin-Data-Analytics-Portfolio/blob/Projects/Godwin_Idiovo_Beats_by_Dre_Consumer_Insights_Capstone_Project_Template.ipynb)
+- [Beats By Dre Marketing analysis](https://github.com/Godwin-Rukki/Godwin-Data-Analytics-Portfolio/blob/Projects/Godwin_Idiovo_Beats_Data_Analysis_.ipynb)
+- [Python and Gemini AI](https://github.com/Godwin-Rukki/Godwin-Data-Analytics-Portfolio/blob/Projects/Gemini_AI_Analysis.ipynb) 
 
 Each project is well-documented and includes code, data, and a detailed explanation of the problem statement, methodology, and results.
 
